@@ -110,5 +110,7 @@ usable outside of Elixir, Ecto isn't usable outside of it. If you look at the ec
 more you realize that there really isn't that much of a win to these libraries existing outside of
 the Elixir bubble.
 
-I'm prepared to say that going with Erlang could save you manyears in the long-term in training,
-development and maintenance.
+I'm prepared to say that going with Erlang over Elixir could save you manyears in the long-term in
+training, development and maintenance. You might have a harder time hiring people and maybe you're
+running a stupid startup that needs mega growth, but maybe in that case you should just use Go
+instead. That way you can get popularity and productivity instead of hipster hype.
