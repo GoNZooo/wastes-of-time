@@ -68,8 +68,11 @@ focusing very heavily on it.
 I have used functional programming in 6+ languages over a period of 12+ years so this is not
 some idle thought I've had at a distance, but rather something I've had to face when I realized
 back in ~2019 that procedural code is much easier to read, understand and change than functional
-code (in practice). I happen to be very good at functional programming and I've used it to great
-effect, but you know what I'm even better at and am even more productive with? Procedural code.
+code (in practice). I happen to (most of the time) be very good at functional programming, I know my
+way around it and I've used it to great effect, but I think there's something fundamentally broken
+about having to "know your way around it" in the first place. Procedural code generally speaking
+doesn't have this type of barrier and so it makes for easier learning, more productive usage
+overall in my experience.
 
 Now, without overreaching, I think that the above applies to whole lot more people than just me, and
 I think it applies to a lot of people who would be very hesitant to even acknowledge it, or maybe
