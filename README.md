@@ -142,3 +142,20 @@ to use all of it, don't tell them they can't use whatever they want. You're just
 you'd be an idiot to waste this opportunity to get tons of free productivity (from happiness) out of
 a motivated team. Even worse, forcing them to use your stupid JVM stack or whatever is going to be
 a painful experience for everyone involved.
+
+## Kitchen sink languages
+
+There is a certain type of language creator or community that seems determined to put everything
+under the sun into their language. Things are accumulated and appended to the language either to add
+new possibilities or to fix problems created by some previously added thing. The result is a messy
+and almost unlearnable language that has more features than anyone should be forced to learn and
+certainly more than anyone should be using even across multiple projects.
+
+If you come across a language known for (or being obviously) a kitchen sink language I think you
+should turn around. It is almost certainly a waste of time to use it.
+
+Some languages are of course already established and have lots of users, lots of support out there
+and so on; C++ comes to mind. Learning C++ is perhaps *not* a waste of time. Some languages push
+through a critical barrier of popularity and seem to succeed despite their obvious kitchen sink
+nature. Seeing one that doesn't fit either previous criteria, it's very hard to not consider it a
+waste of time.
