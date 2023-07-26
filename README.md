@@ -28,10 +28,10 @@ horrendous language and how terrible it actually feels to use/debug and learn.
 
 I think Rust is likely a waste of time for most things and for most people, mostly because there
 are usually better alternatives that are (likely) easier to use, learn, debug and have people be
-productive in: Odin, Zig, Go, maybe Nim. The list could be made longer if I had used more of the
-offerings in the spaces that overlap with Rust's use cases. Back in 2017 I was very excited about
-Rust but I don't think it's hard to see for anyone who's been paying attention to reality that it
-keeps losing in actual use cases to other languages on different axes:
+productive in: Odin, Zig, and Go. The list could be made longer if I had used more of the offerings
+in the spaces that overlap with Rust's use cases. Back in 2017 I was very excited about Rust but I
+don't think it's hard to see for anyone who's been paying attention to reality that it keeps losing
+in actual use cases to other languages on different axes:
 
 - It often produces slower software than Zig. Not because of the compiler but because software
   written in Rust is much harder to make obviously fast than software written in Zig (or Odin
