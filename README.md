@@ -117,3 +117,28 @@ I'm prepared to say that going with Erlang over Elixir could save you manyears i
 training, development and maintenance. You might have a harder time hiring people and maybe you're
 running a stupid startup that needs mega growth, but maybe in that case you should just use Go
 instead. That way you can get popularity and productivity instead of hipster hype.
+
+## Macros
+
+Think Lisp macros, not C macros. At this point I'm almost certain that macros are overall a net loss
+in even small teams and that the problems that they're supposed to solve are better solved in
+extreme cases with external code generation (actually good tooling) or just writing more, normal
+code. In my head there is an idealized hypothetical team of 5 amazing and motivated programmers who
+can move mountains with Common Lisp having very little macro discipline and certainly this is
+reflected at least somewhere in the world outside of this hypothetical... But I'm not sure that
+team couldn't produce the same or more (and maybe better) results with a much more restricted
+toolset over time.
+
+I realize that I'm advocating for a mega-boring language and toolset here, but while I honestly love
+the kind of power that you can get with macros (Scheme/Racket, etc.) I don't think it's
+realistically even a net win for only myself, let alone a team.
+
+Have fun, though; I would never argue for having less fun as a lifestyle in the name of discipline.
+There are better uses of your time than "being pragmatic and reasonable" in your free time if you
+actually just like using things that people argue are not those.
+
+P.S. If you just hired/contracted a team of 5 Common Lisp programmers who love Common Lisp and want
+to use all of it, don't tell them they can't use whatever they want. You're just wasting morale and
+you'd be an idiot to waste this opportunity to get tons of free productivity (from happiness) out of
+a motivated team. Even worse, forcing them to use your stupid JVM stack or whatever is going to be
+a painful experience for everyone involved.
